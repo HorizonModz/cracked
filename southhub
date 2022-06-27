@@ -1,2 +1,2 @@
 local plr = game:GetService("Players").LocalPlayer
-plr:Kick("Dumbass, its april fools")
+plr:Kick("Dumbass")
